@@ -1,0 +1,4 @@
+*** IMPORTANT ***
+Every object file use in this projects its free to use as a CC Attribution
+
+***
