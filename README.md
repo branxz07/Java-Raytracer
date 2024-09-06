@@ -151,6 +151,6 @@ Feedback, suggestions, or contributions to improve the project are welcome and h
 
 --- 
 
-**Special Acknowledgment:** A sincere thank you to my classmates and specially my professor, **Dr. Jafet Rodriguez**, for his immense guidance and support throughout the development of this project.
+**Special Acknowledgment:** A sincere thank you to my classmates and specially my professor, [**Dr. Arturo Jafet Rodriguez Muñoz**](https://www.linkedin.com/in/arturojafet/?originalSubdomain=mx), for his immense guidance and support throughout the development of this project.
 
 
